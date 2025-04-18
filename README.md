@@ -1,8 +1,4 @@
-Sure! Here's a clean and professional `README.md` file you can use for your GitHub repository for the **Java Socket Chat App**:
 
----
-
-```markdown
 # 💬 Java Socket Chat Application
 
 This is a simple console-based chat application built using **Java Sockets**. It consists of a **Server** and a **Client** program that communicate over a TCP connection.
